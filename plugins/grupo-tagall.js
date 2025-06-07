@@ -7,7 +7,7 @@ let pesan = args.join` `
 let oi = `📄 *MENSAJE:* ${pesan}`
 let teks = `╭━〔 *Te Habla Barbie-Bot DESPIERTEN* 〕━⬣\n${oi}\n\n`
 for (let mem of participants) {
-teks += `┃🤖⊹ @${mem.id.split('@')[0]}\n`}
+teks += `┃🌸⊹ @${mem.id.split('@')[0]}\n`}
 teks += `┃
 ╰━━━━━[ Barbie Bot ]━━━━━⬣`
 conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )  
