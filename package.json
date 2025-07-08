@@ -1,7 +1,7 @@
 {
-"name": "Manía",
+"name": "Barbie",
 "version": "1.7.0", 
-"description": "Labubu Bot WhatsApp",
+"description": "Barbie Bot WhatsApp",
 "main": "index.js",
 "type": "module",
     
@@ -19,7 +19,7 @@
     
 "homepage": "https://github.com/GataNina-Li/GataBot-MD",
 "author": {
-"name": "Manía" },
+"name": "Barbie" },
     
 "repository": {
 "type": "git",
@@ -35,7 +35,6 @@
 "@brandond/findthelyrics": "^2.0.5",
 "@green-code/music-track-data": "^2.0.3",
 "@nechlophomeriaa/spotifydl": "1.0.11",
-"@sasmeee/igdl":"^1.0.0",
 "@shineiichijo/marika": "^2.0.6",
 "@vitalets/google-translate-api": "^8.0.0",
 "@xct007/frieren-scraper": "^0.0.2",
